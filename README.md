@@ -6,4 +6,5 @@ This module adds positional encoding to both aforementioned embeddings, making t
 Finally, the object relation module brings the object-level information from the first frame to improve the target consistency.
 This way, we specifically pay attention to the first frame, unlike previous methods that treat the first frame the same as others stored in the memory bank. <br/>
 Similar idea for temporal consistency, [Blazingly Fast Video Object Segmentation with Pixel-Wise Metric Learning
-](https://arxiv.org/abs/1804.03131).
+](https://arxiv.org/abs/1804.03131), [One-Shot Object Detection with Co-Attention and Co-Excitation](https://github.com/timy90022/One-Shot-Object-Detection). <br/>
+Q: Why the position embedding is added only to the previous frame?
