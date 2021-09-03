@@ -13,4 +13,4 @@ Two main approaches are either computing a prototype feature vector from the sup
 This paper considers the latter and proposes a solution for reducing the exponential cost in many-to-many attention operation to linear without performance loss. 
 * A limitation is the naive way of choosing the agent frame from the video (middle frame), which could be the subject of future work. <br/>
 
-3)
+3)[Group Collaborative Learning for Co-Salient Object Detection](https://arxiv.org/abs/2104.01108):
