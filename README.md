@@ -28,6 +28,7 @@ In online inference, an association algorithm (DeepSORT) is used to find the opt
 * Additional references: [Learning Feature Embeddings for Discriminant Model based Tracking](https://arxiv.org/pdf/1906.10414.pdf), [Simple Online and Realtime Tracking with a Deep Association Metric](https://arxiv.org/abs/1703.07402)
 
 6) [Spatial Feature Calibration and Temporal Fusion for Effective One-stage Video Instance Segmentation](https://arxiv.org/abs/2104.05606)
+7) [Self-supervised Augmentation Consistency for Adapting Semantic Segmentation](https://arxiv.org/abs/2105.00097)
 
 
 ## [Neurips2020](https://proceedings.neurips.cc/paper/2020)
