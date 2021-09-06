@@ -31,5 +31,5 @@ In online inference, an association algorithm (DeepSORT) is used to find the opt
 ## Neurips2020
 1) [Dual-Resolution Correspondence Networks](https://arxiv.org/abs/2006.08844):
 * Additional references: [Neighbourhood Consensus Networks](https://arxiv.org/abs/1810.10510)
-
-2) [Embedding Propagation: Smoother Manifold for Few-Shot Classification](https://arxiv.org/abs/2003.04151)
+## ECCV2020
+1) [Embedding Propagation: Smoother Manifold for Few-Shot Classification](https://arxiv.org/abs/2003.04151):
