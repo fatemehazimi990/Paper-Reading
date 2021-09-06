@@ -33,5 +33,10 @@ In online inference, an association algorithm (DeepSORT) is used to find the opt
 ## Neurips2020
 1) [Dual-Resolution Correspondence Networks](https://arxiv.org/abs/2006.08844):
 * Additional references: [Neighbourhood Consensus Networks](https://arxiv.org/abs/1810.10510)
+2) [Partial Optimal Tranport with applications on Positive-Unlabeled Learning](https://proceedings.neurips.cc/paper/2020/hash/1e6e25d952a0d639b676ee20d0519ee2-Abstract.html)
+3) [Adversarial Self-Supervised Contrastive Learning](https://proceedings.neurips.cc/paper/2020/hash/1f1baa5b8edac74eb4eaa329f14a0361-Abstract.html)
+4) [Normalizing Kalman Filters for Multivariate Time Series Analysis](https://proceedings.neurips.cc/paper/2020/hash/1f47cef5e38c952f94c5d61726027439-Abstract.html)
+5) [Domain Generalization for Medical Imaging Classification with Linear-Dependency Regularization](https://proceedings.neurips.cc/paper/2020/hash/201d7288b4c18a679e48b31c72c30ded-Abstract.html)
+6) [Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies](https://proceedings.neurips.cc/paper/2020/hash/20d749bc05f47d2bd3026ce457dcfd8e-Abstract.html)
 ## ECCV2020
 1) [Embedding Propagation: Smoother Manifold for Few-Shot Classification](https://arxiv.org/abs/2003.04151):
