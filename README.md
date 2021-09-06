@@ -38,6 +38,8 @@ In online inference, an association algorithm (DeepSORT) is used to find the opt
 4) [Normalizing Kalman Filters for Multivariate Time Series Analysis](https://proceedings.neurips.cc/paper/2020/hash/1f47cef5e38c952f94c5d61726027439-Abstract.html)
 5) [Domain Generalization for Medical Imaging Classification with Linear-Dependency Regularization](https://proceedings.neurips.cc/paper/2020/hash/201d7288b4c18a679e48b31c72c30ded-Abstract.html)
 6) [Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies](https://proceedings.neurips.cc/paper/2020/hash/20d749bc05f47d2bd3026ce457dcfd8e-Abstract.html)
+7) [Domain Generalization via Entropy Regularization](https://proceedings.neurips.cc/paper/2019/file/2974788b53f73e7950e8aa49f3a306db-Paper.pdf)
+8) 
 ## ECCV2020
 1) [Embedding Propagation: Smoother Manifold for Few-Shot Classification](https://arxiv.org/abs/2003.04151):
 * Additional references: [Learning from labeled and unlabeled data with label propagation](http://mlg.eng.cam.ac.uk/zoubin/papers/CMU-CALD-02-107.pdf)
