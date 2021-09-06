@@ -27,3 +27,4 @@ In online inference, an association algorithm (DeepSORT) is used to find the opt
 
 ## Neurips2020
 [Dual-Resolution Correspondence Networks](https://arxiv.org/abs/2006.08844):
+* Additional references: [Neighbourhood Consensus Networks](https://arxiv.org/abs/1810.10510)
