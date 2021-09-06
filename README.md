@@ -27,6 +27,8 @@ CenterNet produces the heatmap of the objects as well as an offset value for the
 In online inference, an association algorithm (DeepSORT) is used to find the optimal trajectory for each object. <br/>
 * Additional references: [Learning Feature Embeddings for Discriminant Model based Tracking](https://arxiv.org/pdf/1906.10414.pdf), [Simple Online and Realtime Tracking with a Deep Association Metric](https://arxiv.org/abs/1703.07402)
 
+6) [Spatial Feature Calibration and Temporal Fusion for Effective One-stage Video Instance Segmentation](https://arxiv.org/abs/2104.05606)
+
 
 ## Neurips2020
 1) [Dual-Resolution Correspondence Networks](https://arxiv.org/abs/2006.08844):
