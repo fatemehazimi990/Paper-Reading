@@ -1,4 +1,7 @@
 # Paper Reading
+## ICCV2021
+1) [COTR: Correspondence Transformer for Matching Across Images](https://github.com/ubc-vision/COTR)
+
 ## CVPR2021
 1) [Learning Position and Target Consistency for Memory-based Video Object Segmentation
 ](https://arxiv.org/abs/2104.04329): Matching-based methods do not consider any prior about the sequential order of the frames and how pixels of an object move together.
@@ -26,5 +29,5 @@ In online inference, an association algorithm (DeepSORT) is used to find the opt
 
 
 ## Neurips2020
-[Dual-Resolution Correspondence Networks](https://arxiv.org/abs/2006.08844):
+1) [Dual-Resolution Correspondence Networks](https://arxiv.org/abs/2006.08844):
 * Additional references: [Neighbourhood Consensus Networks](https://arxiv.org/abs/1810.10510)
