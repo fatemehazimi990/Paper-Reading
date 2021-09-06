@@ -40,3 +40,4 @@ In online inference, an association algorithm (DeepSORT) is used to find the opt
 6) [Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies](https://proceedings.neurips.cc/paper/2020/hash/20d749bc05f47d2bd3026ce457dcfd8e-Abstract.html)
 ## ECCV2020
 1) [Embedding Propagation: Smoother Manifold for Few-Shot Classification](https://arxiv.org/abs/2003.04151):
+* Additional references: [Learning from labeled and unlabeled data with label propagation](http://mlg.eng.cam.ac.uk/zoubin/papers/CMU-CALD-02-107.pdf)
