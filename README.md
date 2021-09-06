@@ -19,7 +19,7 @@ This paper considers the latter and proposes a solution for reducing the exponen
 4) [Inception Convolution with Efficient Dilation Search](https://arxiv.org/abs/2012.13587):
 5) [Improving Multiple Object Tracking with Single Object Tracking](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Improving_Multiple_Object_Tracking_With_Single_Object_Tracking_CVPR_2021_paper.pdf): This paper proposes the SOTMOT architecture for multiple object tracking to bring the single object tracking advances to MOT setup!
 The training pipeline consists of offline and online phases. 
-During the online training, the SOT branch (which is based on CenterNet) is trained via minimizing the ridge regression loss.
+During the offline training, the SOT branch (which is based on CenterNet) is trained via minimizing the ridge regression loss.
 CenterNet produces the heatmap of the objects as well as an offset value for the object center and bounding box sizes.
 In online inference, an association algorithm (DeepSORT) is used to find the optimal trajectory for each object. <br/>
 * Additional references: [Learning Feature Embeddings for Discriminant Model based Tracking](https://arxiv.org/pdf/1906.10414.pdf), [Simple Online and Realtime Tracking with a Deep Association Metric](https://arxiv.org/abs/1703.07402)
