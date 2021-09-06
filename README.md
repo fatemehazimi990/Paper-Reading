@@ -16,3 +16,5 @@ This paper considers the latter and proposes a solution for reducing the exponen
 3) [Group Collaborative Learning for Co-Salient Object Detection](https://arxiv.org/abs/2104.01108): <br/>
 
 4) [Inception Convolution with Efficient Dilation Search](https://arxiv.org/abs/2012.13587):
+5) [Improving Multiple Object Tracking with Single Object Tracking](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Improving_Multiple_Object_Tracking_With_Single_Object_Tracking_CVPR_2021_paper.pdf):
+* Additional references: [Learning Feature Embeddings for Discriminant Model based Tracking](https://arxiv.org/pdf/1906.10414.pdf), [Simple Online and Realtime Tracking with a Deep Association Metric](https://arxiv.org/abs/1703.07402)
