@@ -29,6 +29,12 @@ In online inference, an association algorithm (DeepSORT) is used to find the opt
 
 6) [Spatial Feature Calibration and Temporal Fusion for Effective One-stage Video Instance Segmentation](https://arxiv.org/abs/2104.05606)
 7) [Self-supervised Augmentation Consistency for Adapting Semantic Segmentation](https://arxiv.org/abs/2105.00097)
+8) [Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling](https://openaccess.thecvf.com/content/CVPR2021/papers/Lei_Less_Is_More_ClipBERT_for_Video-and-Language_Learning_via_Sparse_Sampling_CVPR_2021_paper.pdf)
+9) [Adversarial Generation of Continuous Images](https://openaccess.thecvf.com/content/CVPR2021/papers/Skorokhodov_Adversarial_Generation_of_Continuous_Images_CVPR_2021_paper.pdf)
+10) [Region-aware Adaptive Instance Normalization for Image Harmonization](https://openaccess.thecvf.com/content/CVPR2021/papers/Ling_Region-Aware_Adaptive_Instance_Normalization_for_Image_Harmonization_CVPR_2021_paper.pdf)
+11) [DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution](https://openaccess.thecvf.com/content/CVPR2021/papers/Qiao_DetectoRS_Detecting_Objects_With_Recursive_Feature_Pyramid_and_Switchable_Atrous_CVPR_2021_paper.pdf)
+12) [Discriminative Appearance Modeling with Multi-track Pooling for Real-time Multi-object Tracking](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Discriminative_Appearance_Modeling_With_Multi-Track_Pooling_for_Real-Time_Multi-Object_Tracking_CVPR_2021_paper.pdf)
+13) 
 
 
 ## [Neurips2020](https://proceedings.neurips.cc/paper/2020)
@@ -40,7 +46,8 @@ In online inference, an association algorithm (DeepSORT) is used to find the opt
 5) [Domain Generalization for Medical Imaging Classification with Linear-Dependency Regularization](https://proceedings.neurips.cc/paper/2020/hash/201d7288b4c18a679e48b31c72c30ded-Abstract.html)
 6) [Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies](https://proceedings.neurips.cc/paper/2020/hash/20d749bc05f47d2bd3026ce457dcfd8e-Abstract.html)
 7) [Domain Generalization via Entropy Regularization](https://proceedings.neurips.cc/paper/2019/file/2974788b53f73e7950e8aa49f3a306db-Paper.pdf)
-8) 
+8) [Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](https://bmild.github.io/fourfeat/)
+
 ## ECCV2020
 1) [Embedding Propagation: Smoother Manifold for Few-Shot Classification](https://arxiv.org/abs/2003.04151):
 * Additional references: [Learning from labeled and unlabeled data with label propagation](http://mlg.eng.cam.ac.uk/zoubin/papers/CMU-CALD-02-107.pdf)
