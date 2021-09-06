@@ -1,4 +1,5 @@
-# Reading-CVPR2021
+# Paper Reading
+##CVPR2021
 1) [Learning Position and Target Consistency for Memory-based Video Object Segmentation
 ](https://arxiv.org/abs/2104.04329): Matching-based methods do not consider any prior about the sequential order of the frames and how pixels of an object move together.
 This paper addresses this problem by introducing 1) global retrieval module, 2) position guidance module, 3) object relation module. Global retrival mainly follows the architecture in STM. For position guidance module, additional local keys are extracted from the query embedding and the previous adjacent memory embedding.
@@ -22,3 +23,6 @@ During the online training, the SOT branch (which is based on CenterNet) is trai
 CenterNet produces the heatmap of the objects as well as an offset value for the object center and bounding box sizes.
 In online inference, an association algorithm (DeepSORT) is used to find the optimal trajectory for each object. <br/>
 * Additional references: [Learning Feature Embeddings for Discriminant Model based Tracking](https://arxiv.org/pdf/1906.10414.pdf), [Simple Online and Realtime Tracking with a Deep Association Metric](https://arxiv.org/abs/1703.07402)
+
+
+## Neurips2020
