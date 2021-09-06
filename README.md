@@ -30,7 +30,7 @@ In online inference, an association algorithm (DeepSORT) is used to find the opt
 6) [Spatial Feature Calibration and Temporal Fusion for Effective One-stage Video Instance Segmentation](https://arxiv.org/abs/2104.05606)
 
 
-## Neurips2020
+## [Neurips2020](https://proceedings.neurips.cc/paper/2020)
 1) [Dual-Resolution Correspondence Networks](https://arxiv.org/abs/2006.08844):
 * Additional references: [Neighbourhood Consensus Networks](https://arxiv.org/abs/1810.10510)
 2) [Partial Optimal Tranport with applications on Positive-Unlabeled Learning](https://proceedings.neurips.cc/paper/2020/hash/1e6e25d952a0d639b676ee20d0519ee2-Abstract.html)
