@@ -1,6 +1,8 @@
 # Paper Reading
 ## ICCV2021
 1) [COTR: Correspondence Transformer for Matching Across Images](https://github.com/ubc-vision/COTR)
+2) [Warp Consistency for Unsupervised Learning of Dense Correspondences](https://arxiv.org/abs/2104.03308)
+3) [Learning Target Candidate Association to Keep Track of What Not to Track](https://arxiv.org/abs/2103.16556)
 
 ## [CVPR2021](https://openaccess.thecvf.com/CVPR2021?day=2021-06-24)
 1) [Learning Position and Target Consistency for Memory-based Video Object Segmentation
@@ -34,7 +36,12 @@ In online inference, an association algorithm (DeepSORT) is used to find the opt
 10) [Region-aware Adaptive Instance Normalization for Image Harmonization](https://openaccess.thecvf.com/content/CVPR2021/papers/Ling_Region-Aware_Adaptive_Instance_Normalization_for_Image_Harmonization_CVPR_2021_paper.pdf)
 11) [DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution](https://openaccess.thecvf.com/content/CVPR2021/papers/Qiao_DetectoRS_Detecting_Objects_With_Recursive_Feature_Pyramid_and_Switchable_Atrous_CVPR_2021_paper.pdf)
 12) [Discriminative Appearance Modeling with Multi-track Pooling for Real-time Multi-object Tracking](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Discriminative_Appearance_Modeling_With_Multi-Track_Pooling_for_Real-Time_Multi-Object_Tracking_CVPR_2021_paper.pdf)
-13) 
+13) [Multiple Object Tracking with Correlation Learning (https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Multiple_Object_Tracking_With_Correlation_Learning_CVPR_2021_paper.pdf)
+14) [InverseForm: A Loss Function for Structured Boundary-Aware Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Borse_InverseForm_A_Loss_Function_for_Structured_Boundary-Aware_Segmentation_CVPR_2021_paper.pdf)
+15) [Adaptive Consistency Regularization for Semi-Supervised Transfer Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Abuduweili_Adaptive_Consistency_Regularization_for_Semi-Supervised_Transfer_Learning_CVPR_2021_paper.pdf)
+16) [Interactive Self-Training with Mean Teachers for Semi-supervised Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Interactive_Self-Training_With_Mean_Teachers_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf)
+17) [Convolutional Hough Matching Networks](https://openaccess.thecvf.com/content/CVPR2021/papers/Min_Convolutional_Hough_Matching_Networks_CVPR_2021_paper.pdf)
+18) []()
 
 
 ## [Neurips2020](https://proceedings.neurips.cc/paper/2020)
@@ -48,6 +55,10 @@ In online inference, an association algorithm (DeepSORT) is used to find the opt
 7) [Domain Generalization via Entropy Regularization](https://proceedings.neurips.cc/paper/2019/file/2974788b53f73e7950e8aa49f3a306db-Paper.pdf)
 8) [Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](https://bmild.github.io/fourfeat/)
 
-## ECCV2020
+## [ECCV2020](https://www.ecva.net/papers.php), [highlights](https://www.paperdigest.org/2020/08/eccv-2020-highlights/)
 1) [Embedding Propagation: Smoother Manifold for Few-Shot Classification](https://arxiv.org/abs/2003.04151):
 * Additional references: [Learning from labeled and unlabeled data with label propagation](http://mlg.eng.cam.ac.uk/zoubin/papers/CMU-CALD-02-107.pdf)
+2) [ BorderDet: Border Feature for Dense Object Detection](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2211_ECCV_2020_paper.php)
+3) [Suppress and Balance: A Simple Gated Network for Salient Object Detection](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/2852_ECCV_2020_paper.php)
+4) [Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3387_ECCV_2020_paper.php)
+5) [Conditional Convolutions for Instance Segmentation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460273.pdf)
