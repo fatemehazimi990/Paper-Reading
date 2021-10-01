@@ -29,7 +29,7 @@ This paper considers the latter and proposes a solution for reducing the exponen
 * Task: Any architecture using Conv layer. <br/>
 * Why: To have an adaptive receptive field by searching optimal dilation rates across spatial and channel dimensions instead of using a fixed manual dilation.
 * How: Using a search algorithm referred to as EDO (efficient dilation optimization). The statistical optimization minimizes the L1 error between the expectation of the output of the pre-trained weights (from the so-called supernet) and the expectation of the output from the sampled dilation weights. For more information about the role of the pre-trained weights refer to DARTS method. <br/>
-Question: why should the dilation pattern give us the same expected value as the pre-trained supernet? <br/>
+Question: why should the dilation pattern give us the same expected value as the pre-trained supernet? Does this optimization happen together with the actual training of the backbone weights?<br/>
 
 5) [Improving Multiple Object Tracking with Single Object Tracking](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Improving_Multiple_Object_Tracking_With_Single_Object_Tracking_CVPR_2021_paper.pdf): This paper proposes the SOTMOT architecture for multiple object tracking to bring the single object tracking advances to MOT setup!
 The training pipeline consists of offline and online phases. 
