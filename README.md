@@ -20,9 +20,9 @@ This paper considers the latter and proposes a solution for reducing the exponen
 * A limitation is the naive way of choosing the agent frame from the video (middle frame), which could be the subject of future work. <br/>
 
 3) [Group Collaborative Learning for Co-Salient Object Detection](https://arxiv.org/abs/2104.01108): <br/>
-Task: Co-salient object detection targets at detecting common salient objects sharing the same attributes given a group of relevant images. <br/>
-Why:  Instead of only using images from the same group (similar things), teach the network dissimilar things using images from the other group. Therefore, the goal is to increase the intra-group compactness and the inter-group distinctiveness.<br/>
-How: The Group Affinity module brings the embeddings of the objects from the same category closer by computing a general group consensus from a group of images containing the same object (using correlation ops). The Group Collaborative Learning Network improves the inter-group separability by similar operations, only adding cross-group correlation. The consensus computed from this operation should not be able to detect the common object.<br/>
+* Task: Co-salient object detection targets at detecting common salient objects sharing the same attributes given a group of relevant images. <br/>
+* Why:  Instead of only using images from the same group (similar things), teach the network dissimilar things using images from the other group. Therefore, the goal is to increase the intra-group compactness and the inter-group distinctiveness.<br/>
+* How: The Group Affinity module brings the embeddings of the objects from the same category closer by computing a general group consensus from a group of images containing the same object (using correlation ops). The Group Collaborative Learning Network improves the inter-group separability by similar operations, only adding cross-group correlation. The consensus computed from this operation should not be able to detect the common object.<br/>
 
 4) [Inception Convolution with Efficient Dilation Search](https://arxiv.org/abs/2012.13587):
 5) [Improving Multiple Object Tracking with Single Object Tracking](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Improving_Multiple_Object_Tracking_With_Single_Object_Tracking_CVPR_2021_paper.pdf): This paper proposes the SOTMOT architecture for multiple object tracking to bring the single object tracking advances to MOT setup!
