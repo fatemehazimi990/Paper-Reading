@@ -1,4 +1,6 @@
 # Paper Reading
+## ICLR2021
+1) [In Defense of Pseudo-Labeling: An Uncertainty-Aware Pseudo-label Selection Framework for Semi-Supervised Learning](https://openreview.net/forum?id=-ODN6SbiUU): This paper studies Semi-Suervised Learning (SSL). The paper suggests that consistency regularization, a popular approach in SSL has limitations such as requiring domain-specific data augmentation.Psudo-labeling on the other hand does not have these lmimitation but underperforms relative to consistency regularization. They suggest that this is due to high amount of noise in the pseudo labels which resulst from over-confident models. They make a connection between network calibration and uncertainty estimation and by including model uncertainty in the process of pseudo label selection, reduce the noise level and improve the overall performance. They experiment with multiple methods for uncertainty estimation and show that all this methos achieve similar results.
 ## ICCV2021
 1) [COTR: Correspondence Transformer for Matching Across Images](https://github.com/ubc-vision/COTR)
 2) [Warp Consistency for Unsupervised Learning of Dense Correspondences](https://arxiv.org/abs/2104.03308)
